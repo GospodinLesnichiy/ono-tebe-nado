@@ -312,6 +312,8 @@ body {
     border-radius: 50%;
     width: 240px;
     height: 240px;
+    margin-top: 35px;
+    margin-left: 47px;
 }
 
 .logoWhite {
@@ -324,6 +326,7 @@ body {
     flex-direction: column;
     align-self: start;
     margin-top: 133px;
+    margin-left: 72px;
 }
 
 .textTitleAbout {
