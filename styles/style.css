@@ -255,7 +255,7 @@ body {
     flex-grow: 1;
 }
 
-.lotsGeneral .leftCard, .lotsGeneral .centerCard, .lotsGeneral .thirdLot {
+.lotsGeneral .leftCard, .lotsGeneral .centerCard, .lotsGeneral .rightCard {
     text-decoration: none;
     background-size: cover;
     background-position: center;
